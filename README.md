@@ -43,7 +43,7 @@ Delete employee: Removes an employee record by ID.
 
 Setup and Run
 1.Clone the repository:
-git clone https://github.com/your-username/crudEmployees-dao.git
+git clone https://github.com/prxshxnti/crudEmployees-dao.git
 2.Navigate into the project directory:
 cd crudEmployees-dao
 3.Build the project:
